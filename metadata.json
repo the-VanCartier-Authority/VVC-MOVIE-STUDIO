@@ -1,0 +1,7 @@
+{
+  "name": "VVC MOVIE STUDIO",
+  "description": "Herramienta vanguardista de análisis, reparación y conversión de video, especializada en archivos .h264 de cámaras de vigilancia IPC 360 Home a formato MP4 completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
