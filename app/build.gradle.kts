@@ -10,7 +10,8 @@ plugins {
 
 android {
   namespace = "com.example"
-  compileSdk { version = release(36) { minorApiLevel = 1 } }
+  // Use the stable Android 36 platform installed by the CI workflow.
+  compileSdk = 36
 
   defaultConfig {
     applicationId = "com.aistudio.vvcstudio.vpxmz"
